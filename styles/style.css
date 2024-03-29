@@ -78,3 +78,19 @@ button[type="submit"]{
     color: white;
    
 }
+table,tr,th{
+    padding top: 10px;
+    padding-left: 30px;
+    padding-right: 40px;
+    padding: 8px;
+    border: 2px solid black;
+   text-align: left;
+    background-color:#00BFA6;
+    border-radius: 10px;
+    border-style:dashed
+  
+    
+
+  
+    
+}
